@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636969536 source:e:\учёба\codeblocks labs\laba3_var17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
